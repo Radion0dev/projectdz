@@ -9,7 +9,7 @@ let screensArray = screens.toLowerCase().split(",");
 
 
 
-// alert("lesson JavaScript");
+alert("lesson JavaScript");
 
 console.log("lesson JavaScript");
 
