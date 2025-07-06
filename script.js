@@ -28,5 +28,5 @@ console.log(`Стоимость верстки экранов ${screens} ${scree
 
 console.log(screensArray);
 
-console.log(`Процент отката посреднику за работу ${fullPrice * (rollback/100)}`);
+console.log(`Процент отката посреднику за работу ${fullPrice * (rollback/100)} `);
 
